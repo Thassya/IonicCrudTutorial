@@ -1,4 +1,4 @@
 # IonicCrudTutorial
 
-- [] Teste Tarefa
+- [ ] Teste Tarefa
 - [x] Tarefa concluída
